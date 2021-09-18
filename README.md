@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Md Foysal Kazi
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning next js
-- 💞️ I’m looking to collaborate on open sorce project.
-- 📫 Contract me by email foysalkazi11@gmail.com
+### Hi there 👋, my name is Md Foysal Kazi
+#### I am react developer | MERN stack developer
+![I am react developer | MERN stack developer](https://media-exp1.licdn.com/dms/image/C5616AQFqPudpNczTsw/profile-displaybackgroundimage-shrink_350_1400/0/1630571591189?e=1637193600&v=beta&t=55DDDukn8XsSaLWEBRm3gUroCiA52FJWAmdnfTX2POc)
 
-<!---
-foysalkazi11/foysalkazi11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Focusing on React I am also skilled at MERN stack development. My goal is to continuously improve my skill and serve quality work by writing clean and reusable code using the latest web development technology.
+
+Proficient in creating user interfaces, writing and testing code, troubleshooting simple/complex issues, implementing new features based on client requirement or user feedback.
+
+Skills: Html5, Css3, Bootstrap, JavaScript, React JS, Material-UI, Firebase, Node JS, Express JS, MongoDB, Postgres, Git/GitHub
+
+- 🔭 I’m currently working on an ecommerce project . link https://mzecom.web.app/ 
+- 🌱 I’m currently learning next.js 
+- 👯 I’m looking to collaborate on open sources project  
+- 📫 How to reach me: foysalkazi11@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foysalkazi11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdfoysalkazi11/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://foysalkazi11.github.io/react-protfolio-project/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foysalkazi11)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=foysalkazi11&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=foysalkazi11)  
+
+![Profile views](https://gpvc.arturio.dev/foysalkazi11)  
