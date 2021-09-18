@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning next js
 - 💞️ I’m looking to collaborate on open sorce project.
-- 📫 How to reach me ...
+- 📫 Contract me by email foysalkazi11@gmail.com
 
 <!---
 foysalkazi11/foysalkazi11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
