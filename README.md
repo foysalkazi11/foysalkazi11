@@ -7,7 +7,7 @@ Focusing on React I am also skilled at MERN stack development. My goal is to con
 
 Proficient in creating user interfaces, writing and testing code, troubleshooting simple/complex issues, implementing new features based on client requirement or user feedback.
 
-Skills: Html5, Css3, Bootstrap, JavaScript, React JS, Material-UI, Firebase, Node JS, Express JS, MongoDB, Postgres, Git/GitHub
+#### Skills: Html5, Css3, Bootstrap, JavaScript, React JS, Material-UI, Firebase, Node JS, Express JS, MongoDB, Postgres, Git/GitHub
 
 - 🔭 I’m currently working on an ecommerce project . link https://mzecom.web.app/ 
 - 🌱 I’m currently learning next.js 
