@@ -1,7 +1,7 @@
 
 ![I am react developer | MERN stack developer](https://media-exp1.licdn.com/dms/image/C5616AQFqPudpNczTsw/profile-displaybackgroundimage-shrink_350_1400/0/1630571591189?e=1637193600&v=beta&t=55DDDukn8XsSaLWEBRm3gUroCiA52FJWAmdnfTX2POc)
 ### Hi there 👋, my name is Md Foysal Kazi
-#### I am Front-end Developer | React Developer 
+#### I am a Front-end Developer | React Developer 
 
 I am a Fornt-ent developer specilitity in React. My goal is to continuously improve my skill and serve quality work by writing clean and reusable code using the latest web development technology.
 
