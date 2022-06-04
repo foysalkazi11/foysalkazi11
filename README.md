@@ -7,7 +7,7 @@ I am a Fornt-ent developer skill at React and Next JS. My goal is to continuousl
 
 Proficient in creating user interfaces, writing and testing code, troubleshooting simple/complex issues, implementing new features based on client requirement or user feedback.
 
-#### Skills: Html5, Css3, tailwindcss, Bootstrap, Material-UI, JavaScript, TapeScript, React JS, Next JS, Firebase, Node JS, Express JS, MongoDB, Postgres, Git/GitHub
+#### Skills: Html5, Css3, tailwindcss, Bootstrap, Material-UI, JavaScript, TapeScript, React JS, Next JS, Redux, Apollo client, Firebase, Node JS, Express JS, MongoDB, Postgres, Git/GitHub
 
 - 🔭 I’m currently working on a rcipe application. link https://duacpw47bhqi1.cloudfront.net/
 - 🌱 I’m currently learning next.js | Apollo client
