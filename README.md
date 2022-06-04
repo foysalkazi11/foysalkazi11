@@ -17,3 +17,5 @@ Proficient in creating user interfaces, writing and testing code, troubleshootin
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foysalkazi11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdfoysalkazi11/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://foysalkazi11.github.io/react-protfolio-project/)  
 
+<a href="https://app.daily.dev/foysal11"><img src="https://api.daily.dev/devcards/c35d4d36e708456483ca2f52dc72313f.png?r=r4s" width="400" alt="Md Foysal Kazi's Dev Card"/></a>
+
