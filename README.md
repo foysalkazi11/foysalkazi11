@@ -9,7 +9,7 @@ Proficient in creating user interfaces, writing and testing code, troubleshootin
 
 #### Skills: Html5, Css3, tailwindcss, Bootstrap, Material-UI, JavaScript, TapeScript, React JS, Next JS, Redux, Apollo client, Firebase, Node JS, Express JS, MongoDB, Postgres, Git/GitHub
 
-- 🔭 I’m currently working on a rcipe application. link https://duacpw47bhqi1.cloudfront.net/
+- 🔭 I’m currently working on a helth and wellness application. link https://duacpw47bhqi1.cloudfront.net/
 - 🌱 I’m currently learning next.js | Apollo client
 - 👯 I’m looking to collaborate on open sources project  
 - 📫 How to reach me: foysalkazi11@gmail.com 
