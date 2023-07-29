@@ -1,7 +1,7 @@
 
 <!-- ![I am react developer | MERN stack developer](https://media-exp1.licdn.com/dms/image/C5616AQFqPudpNczTsw/profile-displaybackgroundimage-shrink_350_1400/0/1630571591189?e=1637193600&v=beta&t=55DDDukn8XsSaLWEBRm3gUroCiA52FJWAmdnfTX2POc) -->
 ### Hi there 👋, my name is Md Foysal Kazi
-#### I am a Front-end Developer. JavaScript | React JS | Next JS | TypeScript | Redux | Apollo client
+#### I am a Front-end Web Developer. JavaScript | React JS | Next JS | TypeScript | Redux | Apollo client
 
 I am a Fornt-ent developer skill at React and Next JS. My goal is to continuously improve my skill and serve quality work by writing clean and reusable code using the latest web development technology.
 
@@ -9,7 +9,7 @@ Proficient in creating user interfaces, writing and testing code, troubleshootin
 
 #### Skills: Html5, Css3, tailwindcss, Bootstrap, Material-UI, JavaScript, TapeScript, React JS, Next JS, Redux, Apollo client, Firebase, Node JS, Express JS, MongoDB, Postgres, Git/GitHub
 
-- 🔭 I’m currently working on a health and wellness application. link https://duacpw47bhqi1.cloudfront.net/
+- 🔭 I’m currently working on a health and wellness application. link https://app.blending101.com/
 - 🌱 I’m currently learning next.js | Apollo client
 - 👯 I’m looking to collaborate on open sources project  
 - 📫 How to reach me: foysalkazi11@gmail.com 
