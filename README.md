@@ -3,15 +3,15 @@
 ### Hi there 👋, my name is Md Foysal Kazi
 #### I am a Front-end Web Developer. JavaScript | React JS | Next JS | TypeScript | Redux | Apollo client
 
-I am a Fornt-ent developer skill at React and Next JS. My goal is to continuously improve my skill and serve quality work by writing clean and reusable code using the latest web development technology.
+I am a Front-end developer with focus on React, Next JS, and TypeScript. I aim to continuously improve my skills and serve quality work by writing clean and reusable code using the latest web development technology.
 
-Proficient in creating user interfaces, writing and testing code, troubleshooting simple/complex issues, implementing new features based on client requirement or user feedback.
+Proficient in creating user interfaces, writing and testing code, troubleshooting simple/complex issues, and implementing new features based on client requirements or user feedback.
 
 #### Skills: Html5, Css3, tailwindcss, Bootstrap, Material-UI, JavaScript, TapeScript, React JS, Next JS, Redux, Apollo client, Firebase, Node JS, Express JS, MongoDB, Postgres, Git/GitHub
 
 - 🔭 I’m currently working on a health and wellness application. link https://app.blending101.com/
 - 🌱 I’m currently learning next.js | Apollo client
-- 👯 I’m looking to collaborate on open sources project  
+- 👯 I’m looking to collaborate on an open-source project  
 - 📫 How to reach me: foysalkazi11@gmail.com 
 
 
