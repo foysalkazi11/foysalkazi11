@@ -1,21 +1,33 @@
+### Hi, I'm Foysal: an AI frontend engineer who ships real products
 
-<!-- ![I am react developer | MERN stack developer](https://media-exp1.licdn.com/dms/image/C5616AQFqPudpNczTsw/profile-displaybackgroundimage-shrink_350_1400/0/1630571591189?e=1637193600&v=beta&t=55DDDukn8XsSaLWEBRm3gUroCiA52FJWAmdnfTX2POc) -->
-### Hi there 👋, my name is Md Foysal Kazi
-#### I am a Front-end Web Developer. JavaScript | React JS | Next JS | TypeScript | Redux | Apollo client
+I build with **React, Next.js and React Native**, and I work **AI-native**: features start as written specs, agents (Claude Code, Cursor, Codex) help write and update the code inside project rules I maintain, and tests and CI decide what ships. 5 years remote with US teams. Based in Bangladesh (GMT+6).
 
-I am a Front-end developer with focus on React, Next JS, and TypeScript. I aim to continuously improve my skills and serve quality work by writing clean and reusable code using the latest web development technology.
+**Portfolio and case studies → [portfolio.kazilab.com](https://portfolio.kazilab.com)**
 
-Proficient in creating user interfaces, writing and testing code, troubleshooting simple/complex issues, and implementing new features based on client requirements or user feedback.
+---
 
-#### Skills: Html5, Css3, tailwindcss, Bootstrap, Material-UI, JavaScript, TapeScript, React JS, Next JS, Redux, Apollo client, Firebase, Node JS, Express JS, MongoDB, Postgres, Git/GitHub
+#### What I've built and still run
 
-- 🔭 I’m currently working on a health and wellness application. link https://app.blending101.com/
-- 🌱 I’m currently learning next.js | Apollo client
-- 👯 I’m looking to collaborate on an open-source project  
-- 📫 How to reach me: foysalkazi11@gmail.com 
+| Product | What it is | Proof |
+| --- | --- | --- |
+| [**kaziMart & Aram**](https://portfolio.kazilab.com/work/kazimart-aram/) | Multi-tenant cash-on-delivery commerce SaaS, plus my own live store | 89 real orders · 88 customers · 79 courier shipments |
+| [**BloodLink**](https://play.google.com/store/apps/details?id=com.foysalkazi11.bloodlink) | Android app connecting blood donors and donation clubs | 93 users in 7 countries · realtime chat · server push |
+| [**Our Gournadi**](https://ourgournadi.kazilab.com) | Local directory, web + Android from one React codebase | 320 places · 315 added by a Claude agent |
+| [**Bidesh Jatra**](https://bidashjatra.kazilab.com) | News for migrant workers, researched and published by Claude agents | 100 AI-published articles |
 
+<sub>Figures come from each product's production database, as of Oct 2026. Most of these repositories are private; the case studies explain the architecture.</sub>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foysalkazi11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdfoysalkazi11/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://foysalkazi11.github.io/react-protfolio-project/)  
+#### How I build with AI
 
-<a href="https://app.daily.dev/foysal11"><img src="https://api.daily.dev/devcards/c35d4d36e708456483ca2f52dc72313f.png?r=r4s" width="400" alt="Md Foysal Kazi's Dev Card"/></a>
+- **Plan:** every feature starts as a spec and plan written with AI and reviewed by me (69 specs and 12 plans on kaziMart).
+- **Build:** Claude Code, Cursor and Codex work inside a `CLAUDE.md` / `AGENTS.md` of project rules (204 of 438 kaziMart commits are co-authored with Claude).
+- **Verify:** I read the diffs; types, 92 test files, CI and Playwright checks on production decide what goes live.
+- **Run:** scheduled Claude agents keep two of my products updated after launch.
 
+#### Stack
+
+`React` `Next.js` `TypeScript` `React Native` `Expo` `Astro` `Tailwind CSS` `Supabase` `PostgreSQL` `TanStack Query` `Vitest` `Playwright` `Claude Code` `Cursor` `Codex`
+
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/mdfoysalkazi11/) · foysalkazi11@gmail.com · [CV (PDF)](https://portfolio.kazilab.com/Md-Foysal-Kazi-CV.pdf)
